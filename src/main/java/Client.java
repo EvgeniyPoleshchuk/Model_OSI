@@ -5,7 +5,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Scanner;
 
-public class Main2 {
+public class Client {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String host = "netology.homework";
